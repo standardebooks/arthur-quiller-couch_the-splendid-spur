@@ -21,10 +21,6 @@ footer{
 	font-size: larger;
 }
 
-[epub|type~="z3998:salutation"] + p{
-	text-indent: 0;
-}
-
 #dedication header{
 	margin-top: 2em;
 }
@@ -36,12 +32,7 @@ footer{
 /* End dedication CSS */
 
 /* BEGIN LETTERS */
-[epub|type~="z3998:letter"] header{
-	text-align: right;
-}
-
-[epub|type~="z3998:salutation"] + p,
-[epub|type~="z3998:letter"] header + p{
+[epub|type~="z3998:salutation"] + p{
 	text-indent: 0;
 }
 
