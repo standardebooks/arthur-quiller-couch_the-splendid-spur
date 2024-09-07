@@ -11,6 +11,30 @@ footer{
 	text-align: right;
 }
 
+/* Begin dedication CSS */
+#dedication [epub|type~="z3998:recipient"],
+#dedication [epub|type~="z3998:salutation"]{
+	font-variant: small-caps;
+}
+
+#dedication [epub|type~="z3998:recipient"]{
+	font-size: larger;
+}
+
+[epub|type~="z3998:salutation"] + p{
+	text-indent: 0;
+}
+
+#dedication header{
+	margin-top: 2em;
+}
+
+#dedication footer{
+	margin-top: 1em;
+	text-align: right;
+}
+/* End dedication CSS */
+
 /* BEGIN LETTERS */
 [epub|type~="z3998:letter"] header{
 	text-align: right;
