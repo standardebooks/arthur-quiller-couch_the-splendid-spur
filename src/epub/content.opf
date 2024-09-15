@@ -38,15 +38,16 @@
 		<dc:subject id="subject-1">Great Britain -- History -- Charles I, 1625-1649 -- Fiction</dc:subject>
 		<meta property="authority" refines="#subject-1">LCSH</meta>
 		<meta property="term" refines="#subject-1">Unknown</meta>
+		<meta property="se:subject">Adventure</meta>
 		<meta property="se:subject">Fiction</meta>
-		<dc:description id="description">DESCRIPTION</dc:description>
+		<dc:description id="description">Events force a young man to act for the Royalist side in the English Civil War, bringing many adventures in consequence.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			LONG_DESCRIPTION
+			&lt;p&gt;Jack Marvel is a student in Oxford late in 1642 as tensions are growing between Royalists and Parliamentarians. He happens to observe a clandestine encounter, and what he overhears, he soon shares with Anthony Killigrew, as it concerns a plot on Killigrew’s life. Killigrew, it turns out, is carrying a letter for the king. But Killigrew is killed, and Jack takes up the letter in his friend’s place. His road to Cornwall is beset with danger, and in spite of falling in with Killigrew’s sister—the beautiful Delia—Jack’s commission is ever in peril.&lt;/p&gt;
+			&lt;p&gt;There is a hint of the picaresque in this dramatic first-person narrative, as Marvel is never far from danger, and emerges only narrowly from many scrapes. This was a prominenet element of the popular historical fiction of the late 19th century. &lt;a href="https://standardebooks.org/ebooks/arthur-quiller-couch"&gt;Arthur Quiller-Couch&lt;/a&gt; self-consciously stood in the tradition which ran from &lt;a href="https://standardebooks.org/ebooks/walter-scott"&gt;Sir Walter Scott&lt;/a&gt; to &lt;a href="https://standardebooks.org/ebooks/robert-louis-stevenson"&gt;Robert Louis Stevenson&lt;/a&gt;. In the case of &lt;i&gt;The Splendid Spur&lt;/i&gt;, this brings with it not only historical accuracy, but scenes of dramatic and romantic tension, all acted out on an evocatively drawn landscape.&lt;/p&gt;
 		</meta>
 		<dc:language>en-US</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/6437</dc:source>
 		<dc:source>https://archive.org/details/splendidspurbei01cougoog</dc:source>
-		<meta property="se:production-notes">PRODUCTION_NOTES</meta>
 		<meta property="se:word-count">WORD_COUNT</meta>
 		<meta property="se:reading-ease.flesch">READING_EASE</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/arthur-quiller-couch_the-splendid-spur</meta>
@@ -56,10 +57,10 @@
 		<meta property="se:url.encyclopedia.wikipedia" refines="#author">https://en.wikipedia.org/wiki/Arthur_Quiller-Couch</meta>
 		<meta property="se:url.authority.nacoaf" refines="#author">http://id.loc.gov/authorities/names/n80076613</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
-		<dc:contributor id="artist">COVER_ARTIST</dc:contributor>
-		<meta property="file-as" refines="#artist">COVER_ARTIST_SORT</meta>
-		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">COVER_ARTIST_WIKI_URL</meta>
-		<meta property="se:url.authority.nacoaf" refines="#artist">COVER_ARTIST_NACOAF_URI</meta>
+		<dc:contributor id="artist">John Middleton</dc:contributor>
+		<meta property="file-as" refines="#artist">Middleton, John</meta>
+		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">https://en.wikipedia.org/wiki/John_Middleton_(Norfolk_artist)</meta>
+		<meta property="se:url.authority.nacoaf" refines="#artist">http://id.loc.gov/authorities/names/no97050304</meta>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
 		<dc:contributor id="transcriber-1">Karl Hagen</dc:contributor>
 		<meta property="file-as" refines="#transcriber-1">Hagen, Karl</meta>
