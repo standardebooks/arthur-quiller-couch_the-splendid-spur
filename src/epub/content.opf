@@ -48,6 +48,7 @@
 		<dc:language>en-US</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/6437</dc:source>
 		<dc:source>https://archive.org/details/splendidspurbei01cougoog</dc:source>
+		<meta property="se:production-notes">Much of the archaic spelling as been retained as a feature of the prose style of this genre of historical fiction.</meta>
 		<meta property="se:word-count">WORD_COUNT</meta>
 		<meta property="se:reading-ease.flesch">READING_EASE</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/arthur-quiller-couch_the-splendid-spur</meta>
