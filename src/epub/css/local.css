@@ -12,22 +12,16 @@ footer{
 }
 
 /* Begin dedication CSS */
-#dedication [epub|type~="z3998:recipient"],
-#dedication [epub|type~="z3998:salutation"]{
-	font-variant: small-caps;
+#dedication{
+	margin-top: 20vh;
 }
 
-#dedication [epub|type~="z3998:recipient"]{
+#dedication header b{
 	font-size: larger;
 }
 
-#dedication header{
-	margin-top: 2em;
-}
-
-#dedication footer{
-	margin-top: 1em;
-	text-align: right;
+[epub|type~="dedication"] p:nth-of-type(2){
+	text-indent: 0;
 }
 /* End dedication CSS */
 
