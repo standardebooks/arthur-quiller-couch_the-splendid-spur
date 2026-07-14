@@ -36,7 +36,7 @@
 		<meta property="title-type" refines="#subtitle">subtitle</meta>
 		<dc:title id="fulltitle">The Splendid Spur: Being Memoirs of the Adventures of Mr. John Marvel, a Servant of His Late Majesty King Charles I, in the Years 1642–3</dc:title>
 		<meta property="file-as" refines="#fulltitle">Splendid Spur, The</meta>
-		<meta property="title-type" refines="#fulltitle">extended</meta>
+		<meta property="title-type" refines="#fulltitle">expanded</meta>
 		<dc:subject id="subject-1">Great Britain -- History -- Charles I, 1625-1649 -- Fiction</dc:subject>
 		<meta property="authority" refines="#subject-1">LCSH</meta>
 		<meta property="term" refines="#subject-1">Unknown</meta>
